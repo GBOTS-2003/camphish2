@@ -16,6 +16,6 @@
 # Installing (parrot/Kali Linux/Termux):            
 
 
-            git clone 
-            cd CamPhish
-            bash
+            git clone  https://github.com/GBOTS-2003/camphish2.git
+            cd camphish2
+            bash camphish.sh 
