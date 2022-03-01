@@ -16,6 +16,6 @@
 # Installing (parrot/Kali Linux/Termux):            
 
 
-            git clone https://github.com/techchipnet/CamPhish
+            git clone 
             cd CamPhish
-            bash camphish.sh
+            bash
